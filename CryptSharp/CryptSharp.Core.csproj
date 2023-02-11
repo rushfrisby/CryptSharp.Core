@@ -14,6 +14,7 @@
 		<RepositoryType>git</RepositoryType>
 		<PackageProjectUrl>https://github.com/rushfrisby/CryptSharp.Core</PackageProjectUrl>
 		<PackageReleaseNotes>Add .NET 7 support and fix bug</PackageReleaseNotes>
+		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 	</PropertyGroup>
 
 </Project>
